@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+.navbar .navbar-brand {
+    color: #ffffff;
+}
+
+.navbar .nav-link {
+    color: #ffffff;
+}
+
+/* aside {
+    width: 20%;
+}
+
+main {
+    width: 70%;
+} */
